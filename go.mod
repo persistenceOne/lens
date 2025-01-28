@@ -13,7 +13,7 @@ require (
 	github.com/cosmos/ibc-go/v7 v7.0.0
 	github.com/ethereum/go-ethereum v1.11.3
 	github.com/gogo/protobuf v1.3.2
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.6.0
 	github.com/google/go-github/v43 v43.0.0
 	github.com/jhump/protoreflect v1.15.1
 	github.com/jsternberg/zap-logfmt v1.3.0
@@ -115,7 +115,7 @@ require (
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
-	github.com/golang/glog v1.1.0 // indirect
+	github.com/golang/glog v1.2.4 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3
 	github.com/golang/snappy v0.0.4 // indirect
